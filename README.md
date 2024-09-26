@@ -1,4 +1,4 @@
-# [My Deep Learning Notes - d2l](https://github.com/Miraclelucy/dive_into_deep_learning)
+# [My Deep Learning Notes - d2l](https://github.com/cxhagd/My-Deep-Learning-Notes-d2l)
 
 **These are the study materials and Jupyter Notebook notes I’ve been using while following Professor Mu Li’s deep learning course. I am still learning and will update the repository daily, with the goal of completing all updates by the end of September 2024.**
 
